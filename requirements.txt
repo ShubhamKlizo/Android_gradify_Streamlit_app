@@ -1,0 +1,4 @@
+pandas
+fastapi[standard]
+scikit-learn
+streamlit
